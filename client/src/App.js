@@ -18,7 +18,7 @@ import NoMatch from "./pages/NoMatch";
 import Login from './pages/Login';
 import SignUp from './pages/SignUp';
 import About from './pages/About';
-import Stripe from './pages/Stripe';
+// import Stripe from './pages/Stripe';
 import TrainersPage from "./pages/TrainersPage";
 import ScrollToTop from "./utils/ScrollToTop";
 import PokeStorePage from "./pages/PokeStorePage";
