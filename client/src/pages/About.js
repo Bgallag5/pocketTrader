@@ -134,7 +134,7 @@ const About = () => {
                   <h1>ABOUT POCKET TRADERS</h1>
                 </p>
                 <p className="subtitle">
-                  Since October 20, we have been helping Pokemon Enthusiasts
+                  Since October 2020, we have been helping Pokemon Enthusiasts
                   who crave all things Pokemon to interact with one another
                   through our Pocket Traders trading card app.
                 </p>
